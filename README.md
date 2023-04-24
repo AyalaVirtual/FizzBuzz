@@ -1,4 +1,4 @@
-# Java-FizzBuzz
+FizzBuzz
 
 
 Write a FizzBuzz.java program that outputs numbers from 1 to 100… with a catch:
